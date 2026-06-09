@@ -1,4 +1,4 @@
-unique_id,program_code,starname,ra,dec,exptime,n_exp,n_inter_max,tau_inter,n_intra_max,n_intra_min,tau_intra,minimum_elevation,minimum_moon_separation,weather_band_1,weather_band_2,weather_band_3,gaia_id,teff,jmag,gmag,pmra,pmdec,epoch,exp_meter_threshold,inactive
+unique_id,program_code,target,ra,dec,exptime,n_exp,n_inter_max,tau_inter,n_intra_max,n_intra_min,tau_intra,minimum_elevation,minimum_moon_separation,weather_band_1,weather_band_2,weather_band_3,gaia_id,teff,jmag,gmag,pmra,pmdec,epoch,exp_meter_threshold,inactive
 67ec5c91b18f39f02525253a,2025B_C035,HD219134,348.3207290015033,57.16835661767194,45,3,22,0,1,1,0.0,30.0,30.0,True,True,False,DR3_2009481748875806976,4746.0,3.86,5.231896,2074.414,294.452,2000.0,70.0,False
 67ec5c91b18f39f025252531,2025B_C035,HD4614,12.276227476217498,57.81517728881,30,6,18,0,1,1,0.0,30.0,30.0,True,True,False,DR3_425040000962559616,5879.0,2.37,3.320067,1078.609,-551.133,2000.0,70.0,False
 67ec5c91b18f39f025252532,2025B_C035,HD34411,79.78531437463374,40.09905141137222,90,6,30,0,1,1,0.0,30.0,30.0,True,True,False,DR3_188771135583573504,5844.0,3.61,4.525885,520.569,-664.488,2000.0,70.0,False
